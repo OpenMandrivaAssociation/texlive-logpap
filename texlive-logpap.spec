@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Generate logarithmic graph paper with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/logpap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/logpap
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/logpap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/logpap.doc.r%{version}.tar.xz
